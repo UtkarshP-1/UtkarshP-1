@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshp-1&show_icons=true&locale=en&layout=compact" alt="utkarshp-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshp-1&show_icons=true&locale=en" alt="utkarshp-1" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=utkarshp-1&show_icons=true&locale=en" alt="utkarshp-1" /></p>
