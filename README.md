@@ -1,7 +1,7 @@
 <!---
 - 👋 Hi, I’m @UtkarshP-1
-- 👀 I’m interested in Machine Learning and Big Data
-- 🌱 I’m currently learning Big Data Analytics
+- 👀 I’m interested in Big Data and Data Engineering 
+- 🌱 I’m currently working as Data Analyst and Data Engineer 
 
 
 <!---
@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshp-1&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshp-1" /> </p>
 
-- 👀 I’m interested in **Machine Learning and Big Data**
+- 👀 I’m interested in **Big Data and Data Engineering**
 
-- 🌱 I’m currently learning **Big Data Analytics**
+- 🌱 I’m currently working as **Data Analyst and Data Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
