@@ -35,9 +35,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://azuregems.io/static/6bd04be68aa84fc4a5a76833a47a2281/bfc16/SqlServerless-6.png" height="40" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/google_bigquery_logo_icon_168150.png" height="40" alt="bigquery logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://iconape.com/wp-content/png_logo_vector/apache-spark.png" height="40" alt="apache-spark logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/databricks_logo_icon_170295.png" height="40" alt="databricks logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
   <img width="12" />
@@ -72,6 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" height="40" alt="tableau logo"  />
 </div>
 
 ###
